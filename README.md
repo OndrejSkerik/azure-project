@@ -12,4 +12,5 @@ Provide Delta Lake solution based on Databricks notebooks.
 2. Azure Databricks - data transformation
 
 Link to the Azure Databricks course on Udemy that helped me a lot with this project:
+
 https://www.udemy.com/course/azure-databricks-spark-core-for-data-engineers/
