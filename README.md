@@ -6,10 +6,10 @@ This repository contains all of the code, notebooks and other stuff created duri
 
 Provide Delta Lake solution based on Databricks notebooks.
 
-## Main tools of the project
+## Main tools used during the project
 
-1. Azure Data Factory - data ingestion and pipeline orchestration
-2. Azure Databricks - data transformation
+* Azure Data Factory - data ingestion and pipeline orchestration
+* Azure Databricks - data transformation
 
 Link to the Azure Databricks course on Udemy that helped me a lot with this project:
 
